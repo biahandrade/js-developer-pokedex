@@ -6,7 +6,6 @@
   - Adicionado gradiente animado de fundo na página principal (`global.css`).
   - Título principal com efeito de gradiente animado.
   - Cards dos pokémons estilizados com gradiente, sombra e animação de entrada.
-  - Responsividade aprimorada para dispositivos móveis.
   - Modal estilizado para exibir detalhes do pokémon.
 
 - **Funcionalidades implementadas:**  
